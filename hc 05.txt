@@ -1,0 +1,2 @@
+need to change name password and board rate=38400 on hc 05
+
